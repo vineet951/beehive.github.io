@@ -115,6 +115,32 @@ header .navbar-brand {
     }
     
   }
+  @media only screen and (max-width: 400px){
+   .section-1 h4{
+     font-size: 20%;
+   }
+   .section-1 h5{
+    font-size: 15%;
+  }
+  .section-1 h1{
+    font-size: 60%;
+  }
+  .section-1 h6{
+    font-size: 12%;
+  }
+  .section-2 h1{
+    margin-top: 14%;
+  }
+  .section-3 h1{
+    margin-top: 14%;
+  }
+  .section-4 h1{
+    margin-top: 25%;
+  }
+  .section-5 h1{
+    margin-top: 14%;
+  }
+  }
 
 
 
